@@ -1,4 +1,4 @@
-<h1>Hi ✌️, I'am MrCode</h1>
+<h1>Hi ✌️, I'am Bennet</h1>
 
 <b>I'm a aspiring software developer from Germany.</b>
 
