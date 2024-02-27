@@ -2,7 +2,7 @@
 <b>I'm a aspiring software developer from Germany.</b>
 <br>
 <br>
-<a href="https://www.youtube.com/@ai-dexe">YouTube</a>
+<a href="https://www.youtube.com/@ai-dexe">This is my YouTube Channel</a>
 <br>
 <br>
 <b>Check out my repos ↓</b>
