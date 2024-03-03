@@ -1,5 +1,5 @@
 <h1>Hi ✌️, I'am Bennet</h1>
-<b>I'm a aspiring software developer from Germany.</b>
+<b>I'm a aspiring software developer and content creator from Germany.</b>
 <br>
 <br>
 <a href="https://www.youtube.com/@ai-dexe">This is my YouTube Channel</a>
