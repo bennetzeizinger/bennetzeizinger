@@ -4,6 +4,8 @@
 <br>
 <a href="https://www.youtube.com/@ai-dexe">This is my YouTube Channel</a>
 <br>
+<a href="https://linktr.ee/aidexe">And this is my Linktree</a>
+<br>
 <br>
 <b>Check out my repos ↓</b>
 <br>
